@@ -1,1 +1,1 @@
-# CSE-103
+Structured Programming
