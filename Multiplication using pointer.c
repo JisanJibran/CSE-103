@@ -1,9 +1,11 @@
+// Write down a program that will take two integers as input using pointers.
+// Then using pointers multiply the two values and display the result
 #include <stdio.h>
 
 int main() {
     int a, b, r;
 
-    // Pointers to store the addresses of number 1 and number 2
+    // Pointers to store the addresses of a and b
     int *p, *q;
 
     // Initialize the pointers with the addresses of a and b
